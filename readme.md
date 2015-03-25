@@ -2,4 +2,26 @@
 
 here is now the atom version !
 
+## packages
 * minimap : https://atom.io/packages/minimap
+* linter : https://atom.io/users/AtomLinter
+* linter-jshint : https://atom.io/packages/linter-jshint
+* linter-tidy : https://atom.io/packages/linter-tidy
+* linter-ccslint : https://atom.io/packages/linter-csslint
+* linter-javac :  https://atom.io/packages/linter-javac
+* linter-scalac :  https://atom.io/packages/linter-scalac
+* language-scala : https://atom.io/packages/language-scala
+* linter-shellcheck : https://atom.io/packages/linter-shellcheck
+* atom-beautify : https://atom.io/packages/atom-beautify
+* file-icons : https://atom.io/packages/file-icons
+  - _icons.less : .geojson-icon { .fa; content: "\f0ac"; }_
+  - _file-icons.less : &[data-name$=".geojson"]:before { .geojson-icon; .medium-yellow; }_
+* ~~emmet : https://atom.io/packages/emmet~~
+* atom-terminal : https://atom.io/packages/atom-terminal
+* git-log : https://atom.io/packages/git-log
+* grunt-runner : https://atom.io/packages/grunt-runner
+* view-tail-large-files : https://atom.io/packages/view-tail-large-files
+* git-control : https://atom.io/packages/git-control
+
+## theme
+* Monokai : https://atom.io/themes/monokai
