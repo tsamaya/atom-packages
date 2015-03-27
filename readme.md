@@ -25,3 +25,11 @@ here is now the atom version !
 
 ## theme
 * Monokai : https://atom.io/themes/monokai
+
+## misc
+* azerty keybord
+update keybinding to allow the key for ``]``
+```
+'atom-workspace atom-text-editor:not([mini])':
+  'ctrl-alt-[': 'unset!'
+```
