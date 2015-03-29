@@ -16,13 +16,16 @@ here is now the atom version !
 * file-icons : https://atom.io/packages/file-icons
   - _icons.less : .geojson-icon { .fa; content: "\f0ac"; }_
   - _file-icons.less : &[data-name$=".geojson"]:before { .geojson-icon; .medium-yellow; }_
-* ~~emmet : https://atom.io/packages/emmet~~
 * atom-terminal : https://atom.io/packages/atom-terminal
 * git-log : https://atom.io/packages/git-log
 * grunt-runner : https://atom.io/packages/grunt-runner
 * view-tail-large-files : https://atom.io/packages/view-tail-large-files
 * git-control : https://atom.io/packages/git-control
 * gist-it : https://atom.io/packages/gist-it
+* minimap-find-and-replace : https://atom.io/packages/minimap-find-and-replace
+* todo-show : https://atom.io/packages/todo-show
+* highlight-selected  https://atom.io/packages/highlight-selected
+* minimap-highlight-selected : https://atom.io/packages/minimap-highlight-selected
 
 ## theme
 * Monokai : https://atom.io/themes/monokai
