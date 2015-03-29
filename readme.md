@@ -22,6 +22,7 @@ here is now the atom version !
 * grunt-runner : https://atom.io/packages/grunt-runner
 * view-tail-large-files : https://atom.io/packages/view-tail-large-files
 * git-control : https://atom.io/packages/git-control
+* gist-it : https://atom.io/packages/gist-it
 
 ## theme
 * Monokai : https://atom.io/themes/monokai
