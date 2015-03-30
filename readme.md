@@ -32,7 +32,10 @@ here is now the atom version !
 
 ## misc
 * azerty keybord
-update keybinding to allow the key for ``]``
+update keybinding to allow the key for ``]`` in both files:
+- `c:\Users\USER\.atom\keymap.cson`
+- `c:\Users\USER\AppData\Local\atom\VERSION\resources\app\keymaps\win32.json`
+
 ```
 'atom-workspace atom-text-editor:not([mini])':
   'ctrl-alt-[': 'unset!'
